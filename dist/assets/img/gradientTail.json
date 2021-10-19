@@ -1,0 +1,63 @@
+{"frames": {
+
+"gradient_2.png":
+{
+	"frame": {"x":0,"y":0,"w":83,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":150},
+	"sourceSize": {"w":83,"h":150}
+},
+"gradient_4.png":
+{
+	"frame": {"x":0,"y":150,"w":83,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":151},
+	"sourceSize": {"w":83,"h":151}
+},
+"gradient_8.png":
+{
+	"frame": {"x":0,"y":301,"w":83,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":151},
+	"sourceSize": {"w":83,"h":151}
+},
+"gradient_16.png":
+{
+	"frame": {"x":0,"y":452,"w":83,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":151},
+	"sourceSize": {"w":83,"h":151}
+},
+"gradient_32.png":
+{
+	"frame": {"x":0,"y":603,"w":83,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":151},
+	"sourceSize": {"w":83,"h":151}
+},
+"gradient_64.png":
+{
+	"frame": {"x":0,"y":754,"w":83,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":150},
+	"sourceSize": {"w":83,"h":150}
+}},
+"animations": {
+	"gradient": ["gradient_2.png","gradient_4.png","gradient_8.png","gradient_16.png","gradient_32.png","gradient_64.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gradientTail.png",
+	"format": "RGBA8888",
+	"size": {"w":83,"h":904},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1a1ea81c97f5c585ea9acf40d6b91b14:576a13f93a8569eeb0dac968a28066ec:716921202321f7262ca93615ae4e3e0c$"
+}
+}
